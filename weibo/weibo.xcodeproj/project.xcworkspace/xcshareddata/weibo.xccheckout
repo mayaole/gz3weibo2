@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FD9D3F56-53EA-4D09-81CE-DBB9C28189C7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>weibo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BDA367B0B635F1C92DA84BCF4DFCDE21F97186B7</key>
+		<string>https://github.com/mayaole/gz3weibo2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>weibo/weibo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BDA367B0B635F1C92DA84BCF4DFCDE21F97186B7</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mayaole/gz3weibo2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BDA367B0B635F1C92DA84BCF4DFCDE21F97186B7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BDA367B0B635F1C92DA84BCF4DFCDE21F97186B7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gz3weibo2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
